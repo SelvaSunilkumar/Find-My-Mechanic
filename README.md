@@ -30,7 +30,7 @@ Here, we have two modules, namely
 * mechanic has rights to deny the job offer at any point of time
 * All completed and denied job will be available im Completed Module.
 
-...
+---
 
 #### Technologies Used
 
