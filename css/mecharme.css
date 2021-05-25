@@ -1,0 +1,123 @@
+.dp {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.list {
+    padding: 0px 10px;
+    color: #fff;
+}
+
+select {
+    color: #fff;
+    padding: 11px 0;
+    border: none;
+    outline: none;
+}
+
+.as {
+    padding: 15px 0;
+}
+
+.whole {
+    box-shadow: 0 0 20px #5a5d5e66,inset 0 0 10px #5a5d5e66,0 1px 0 #5a5d5e66;
+}
+
+.details {
+    height: 100%;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+
+.left {
+    float: left;
+    width: 30%;
+    height: 100%;
+}
+
+.right {
+    float: right;
+    width: 70%;
+    height: 100%;
+    padding: 0px 25px;
+}
+
+.set_title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sub_title {
+    font: 16px;
+}
+
+.img {
+    margin-top: 15px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.body_left {
+    float: left;
+    width: 50%;
+}
+
+.body_right {
+    float: right;
+    width: 50%;
+    padding-left: 5px;
+}
+
+.dist {
+    width: 50%;
+    float: right;
+    padding-left: 5px;
+}
+
+.select {
+    width: 100%;
+    outline: none;
+    border: none;
+    background: rgb(221, 179, 61);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.select:hover {
+    background: rgb(64, 173, 206);
+}
+
+
+.closeb {
+    width: 80%;
+    margin-left: 25px;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    background: rgb(218, 84, 31);
+    color: #fff;
+    transition: .5s;
+}
+
+.closeb:hover {
+    background: rgb(156, 7, 7);
+}
+
+.confirmb {
+    width: 80%;
+    margin-left: 25px;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    background: rgb(81, 187, 104);
+    color: #fff;
+    transition: .5s;
+}
+
+.confirmb:hover {
+    background: rgb(56, 123, 185);
+}

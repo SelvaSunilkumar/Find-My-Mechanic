@@ -1,0 +1,134 @@
+.dp {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.list {
+    padding: 0px 10px;
+    color: #fff;
+}
+
+.all {
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.contain {
+    border: 1px solid rgb(156, 146, 146);
+}
+
+.head {
+    background: #337c25;
+    color: #000;
+}
+
+.whole {
+    width: 100%;
+}
+
+.left_body {
+    width: 40%;
+    float: left;
+}
+
+.right_body {
+    width: 60%;
+    float: right;
+}
+
+.left_content {
+    width: 50%;
+    float: left;
+}
+
+.right_content {
+    width: 40%;
+    float: right;
+}
+
+.profile {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+.input {
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.input_half {
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.cont {
+    padding: 15px;
+}
+
+.contb {
+    padding: 15px;
+}
+
+.leftb {
+    width: 50%;
+    float: left;
+}
+
+.rightb {
+    width: 50%;
+    float: right;
+}
+
+button {
+    width: 100%;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.decline,.no_but {
+    background: rgb(228, 79, 79);
+    color: #fff;
+    transition: 0.5s;
+}
+
+.decline:hover {
+    background: rgb(231, 28, 28);
+}
+
+.done {
+    background: rgb(62, 163, 84);
+    color: #fff;
+    transition: 0.5s;
+} 
+
+.done:hover {
+    background: #337c25;
+}
+
+.no_but {
+    background: rgb(228, 79, 79);
+    color: #fff;
+    transition: 0.5s;
+}
+
+.no_but:hover {
+    background: rgb(231, 28, 28);
+}
+
+.body_left {
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+
+.body_right {
+    width: 50%;
+    float: right;
+    padding: 10px;
+}
