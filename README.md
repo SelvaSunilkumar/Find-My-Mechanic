@@ -19,3 +19,29 @@ Here, we have two modules, namely
 * * Purpose of Work
 * Once the details are provided, a request is send to mechanic. The invitation is also send to mechanics mail Id.
 * Once the Invitations is send/accpeted/denied, all will be displayed in the MyRequest module.
+
+#### Mechanic
+
+* On login, mechanic will be listed with invitations, for which the mechanic has to respond
+* If, he wishes to accept the invitation,
+* * The algorithm checks, if he has any appointments on the same day, so again it asks for a confirmation.
+* * If no appointments are there on the same date, then the job is been accepted.
+* Accepted and pending works will available to mechanic on Accepted Module.
+* mechanic has rights to deny the job offer at any point of time
+* All completed and denied job will be available im Completed Module.
+
+...
+
+#### Technologies Used
+
+* HTML, CSS, Bootstrap
+* CodeIgniter (PHP Framework)
+* Apache Server, MySQL (Provided by XAMPP)
+
+---
+
+#### Practical Demo
+
+* Available @ https://drive.google.com/file/d/1Cp6QFcNNIGTgwWz_gSSQQC8qCpvTv6PF/view?usp=sharing
+
+---
