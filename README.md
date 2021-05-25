@@ -47,3 +47,16 @@ Here, we have two modules, namely
 * Available @ https://drive.google.com/file/d/1Cp6QFcNNIGTgwWz_gSSQQC8qCpvTv6PF/view?usp=sharing
 
 ---
+
+### Team Members
+
+| Name  | Reg No |
+| ------------- | ------------- |
+| Anandha Kumar R  | 18C010  |
+| Arun Karthick M  | 18C015  |
+| Mohit Sharma  | 18C060  |
+| Prasanna Kumar R  | 18C071  |
+| Suganesh R  | 18C106  |
+| Sunil Kumar S  | 18C107  |
+
+---
