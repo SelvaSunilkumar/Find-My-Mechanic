@@ -56,7 +56,7 @@ Here, we have two modules, namely
 | Arun Karthick M  | 18C015  |
 | Mohit Sharma  | 18C060  |
 | Prasanna Kumar R  | 18C071  |
-| Suganesh R  | 18C106  |
+| Suganesh R  | 18C105  |
 | Sunil Kumar S  | 18C107  |
 
 ---
